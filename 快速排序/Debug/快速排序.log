@@ -1,0 +1,3 @@
+﻿  supper.cpp
+C:\Users\dell\source\repos\快速排序\supper.cpp(23,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  快速排序.vcxproj -> C:\Users\dell\source\repos\快速排序\Debug\快速排序.exe

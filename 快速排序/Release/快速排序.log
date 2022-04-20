@@ -1,0 +1,2 @@
+﻿  supper.cpp
+C:\Users\dell\source\repos\快速排序\supper.cpp(7,11): error C2148: 数组的总大小不得超过 0x7fffffff 字节
